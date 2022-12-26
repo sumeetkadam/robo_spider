@@ -1,0 +1,4 @@
+This project implements various servos casuing the locomotion of the libs of quadruped spider.
+The stl files were used to 3d print the various parts of quadruped mechanism.
+The arduino nano is used as microcontroller. Where the code is stored and ran.
+The commands where thrown to the ardunio with bluetooth spp protocol by android application.
