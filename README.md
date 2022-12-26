@@ -12,3 +12,6 @@ sg 90 servo motor -- 12
 3. lock the servo in the body
 4. insert the spider.ino file into arduino.
 5. Install bluetooth spp app on mobile.
+
+SPP(Sequenced Packet Protocol) is similar to TCP(Transmission Control Protocol).
+A key technical difference is that SPP packets count sequence numbers but not bytes.
