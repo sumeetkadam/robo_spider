@@ -1,3 +1,4 @@
+# This the support library for our base code. which provides necessary time related sequence
 #ifndef FlexiTimer2_h
 #define FlexiTimer2_h
 
